@@ -1,0 +1,6 @@
+{
+  "name": "Apex Secure Academic Assessment & Proctoring System",
+  "description": "High-reliability institutional academic examination workspace with real-time biometric proctoring telemetry, 50-item question palette, and secure exam lockdown.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
